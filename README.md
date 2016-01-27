@@ -5,3 +5,5 @@ For best results, compile using gcc -Wall
 Skeleton C program
 ## helloWorld.c
 Hello world program
+##printingVariables.c
+First use of variables which includes declaring, assigning values and printing the values stored

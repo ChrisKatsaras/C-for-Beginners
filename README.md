@@ -2,7 +2,8 @@
 ## By: Christopher Katsaras
 Small C programs to teach you the basics
 For best results, compile using:
-> gcc -Wall  
+> gcc -Wall
+  
 Variable and filenames follow CamelCase standards 
 ## skeleton.c
 Skeleton C program

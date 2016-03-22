@@ -1,6 +1,6 @@
 # C-for-Beginners :octocat:
 ## By: Christopher Katsaras
-Small C programs to teach you the basics
+Small C programs to teach you the basics  
 For best results, compile using:
 > gcc -Wall
   
@@ -17,3 +17,5 @@ Scanning and storing variables which include char, int and double data type.
 First use of if and else statments
 ## forLoop.c
 First and basic use of for loops
+## whileLoops.c
+First use of while and do while loops

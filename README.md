@@ -1,4 +1,4 @@
-# C-for-Beginners
+# C-for-Beginners :octocat:
 ## By: Christopher Katsaras
 Small C programs to teach you the basics
 For best results, compile using:

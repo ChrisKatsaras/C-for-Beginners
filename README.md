@@ -15,3 +15,5 @@ First use of variables which includes declaring, assigning values and printing t
 Scanning and storing variables which include char, int and double data type.
 ##ifElse.c
 First use of if and else statments
+## forLoop.c
+First and basic use of for loops

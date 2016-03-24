@@ -1,6 +1,8 @@
 # C-for-Beginners :octocat:
 ## By: Christopher Katsaras
 Small C programs to teach you the basics  
+![alt tag](https://media.giphy.com/media/DBW3BniaWrFo4/giphy.gif)  
+
 For best results, compile using:
 > gcc -Wall
   

@@ -19,7 +19,7 @@ int main()
 		printf("%d\n",i);
 		i++; //Increments i so we can eventually meet the exit condition
 
-	}while(i != 10);
+	}while(i != 10); //Loop while i does not equal 10
 
 	return 0;
 }
